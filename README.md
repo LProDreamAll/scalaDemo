@@ -1,2 +1,0 @@
-# scalaDemo
-Describe scala  simple
